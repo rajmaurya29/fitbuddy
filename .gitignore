@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.venv/
+fitbuddy-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Database
+*.db
+
+# Logs
+*.log
